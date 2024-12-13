@@ -9,16 +9,16 @@
 		}
 	],
 	"gd": {
-		"android": "2.205",
-		"mac": "2.200",
-		"win": "2.204"
+		"android": "2.2074",
+		"mac": "2.2074",
+		"win": "2.2074"
 	},
 	"tags": [
 		"Editor",
 		"Enhancement",
 		"Utility"
 	],
-	"geode": "2.0.0-beta.22",
+	"geode": "4.1.0",
 	"id": "sofabeddd.level_templates",
 	"name": "Level Templates",
 	"repository": "https://github.com/sofabeddd/Level-Templates",
